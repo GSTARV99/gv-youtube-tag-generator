@@ -1,0 +1,6 @@
+# GV YouTube Tag Generator robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://gv-taggenerator.web.app/sitemap.xml

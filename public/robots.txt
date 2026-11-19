@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://gv-taggenerator.web.app/sitemap.xml
+Sitemap: https://gstarv99.github.io/gv-youtube-tag-generator/sitemap.xml
